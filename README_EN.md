@@ -5,6 +5,7 @@ An active sessions bell button located in the DeepSeek Harness (DSH) workspace s
 [简体中文](README.md) · Version 0.1.1 · MIT
 
 [![verify](https://github.com/DEVbyQIN/dsh-active-sessions/actions/workflows/verify.yml/badge.svg)](https://github.com/DEVbyQIN/dsh-active-sessions/actions/workflows/verify.yml)
+[![npm](https://img.shields.io/npm/v/dsh-active-sessions.svg)](https://www.npmjs.com/package/dsh-active-sessions)
 
 ---
 
@@ -25,6 +26,12 @@ An active sessions bell button located in the DeepSeek Harness (DSH) workspace s
 ---
 
 ## Installation
+
+### From npm
+
+```sh
+dsh plugin --profile web add dsh-active-sessions@0.1.1
+```
 
 ### From GitHub
 
