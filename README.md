@@ -5,6 +5,7 @@
 [English](README_EN.md) · 版本 0.1.1 · MIT
 
 [![verify](https://github.com/DEVbyQIN/dsh-active-sessions/actions/workflows/verify.yml/badge.svg)](https://github.com/DEVbyQIN/dsh-active-sessions/actions/workflows/verify.yml)
+[![npm](https://img.shields.io/npm/v/dsh-active-sessions.svg)](https://www.npmjs.com/package/dsh-active-sessions)
 
 ---
 
@@ -25,6 +26,12 @@
 ---
 
 ## 安装与使用
+
+### 从 npm 安装
+
+```sh
+dsh plugin --profile web add dsh-active-sessions@0.1.1
+```
 
 ### 从 GitHub 安装
 
