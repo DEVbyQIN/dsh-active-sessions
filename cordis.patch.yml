@@ -1,0 +1,9 @@
+# dsh-active-sessions — host plugin insertion.
+#
+# The host half is deliberately inert: all behaviour lives in the browser half
+# (lib/client.js). This row exists so the package is an ENABLED Loader entry,
+# which makes the host-side client-modules scanner publish `exports["./client"]`
+# to the browser as a module.
+- insert:
+    - id: active-sessions
+      name: dsh-active-sessions

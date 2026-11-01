@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "title": "Active Sessions",
+    "description": "Active sessions bell in the workspace header with running task badges and 3-day recent session filters"
+  },
+  "bell": {
+    "title": "Active Sessions",
+    "runningCount": "running",
+    "tabRunning": "In Progress",
+    "tabRecent": "Last 3 Days",
+    "emptyRunning": "No active running sessions",
+    "emptyRecent": "No sessions in the last 3 days",
+    "justNow": "just now",
+    "minsAgo": "m ago",
+    "hoursAgo": "h ago",
+    "daysAgo": "d ago",
+    "runningBadge": "Running",
+    "quickEnter": "Click to switch",
+    "shortcutHint": "Click to switch · ESC to close",
+    "ungrouped": "Ungrouped"
+  }
+}

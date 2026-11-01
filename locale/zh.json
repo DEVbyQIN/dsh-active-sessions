@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "title": "活跃会话",
+    "description": "在工作区栏显示活跃会话铃铛，支持一键筛选运行中与最近三天的会话"
+  },
+  "bell": {
+    "title": "活跃会话",
+    "runningCount": "进行中",
+    "tabRunning": "正在进行中",
+    "tabRecent": "最近三天",
+    "emptyRunning": "暂无正在进行中的会话",
+    "emptyRecent": "最近三天暂无活跃会话",
+    "justNow": "刚刚",
+    "minsAgo": "分钟前",
+    "hoursAgo": "小时前",
+    "daysAgo": "天前",
+    "runningBadge": "运行中",
+    "quickEnter": "点击进入",
+    "shortcutHint": "点击会话快速切换 · ESC 键关闭",
+    "ungrouped": "未分组"
+  }
+}

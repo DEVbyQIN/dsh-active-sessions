@@ -1,0 +1,9 @@
+node_modules
+*.tgz
+*.sha256
+.DS_Store
+dist/
+coverage/
+screenshots/
+.system_generated/
+*.log
